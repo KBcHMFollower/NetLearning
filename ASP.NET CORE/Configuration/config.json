@@ -1,0 +1,13 @@
+{
+  "person": {
+    "profile": {
+      "name": "Tomas",
+      "email": "tom@gmail.com"
+    }
+  },
+  "company": { "name": "Microsoft" },
+  "ConnectionStrings": {
+    "DefaultConnection": "Main database",
+    "UsersContext": "Users database"
+  }
+}
